@@ -485,7 +485,7 @@
                 "mupen64plus-CountPerOp": "0",
                 "mupen64plus-CountPerOpDenomPot": "0",
                 "mupen64plus-virefresh": "1500",
-                "mupen64plus-43screensize": "640x480",
+                "mupen64plus-43screensize": "320x240",
                 "mupen64plus-aspect": "4:3",
                 "mupen64plus-BilinearMode": "standard",
                 "mupen64plus-HybridFilter": "False",
