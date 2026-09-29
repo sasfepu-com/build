@@ -481,7 +481,7 @@
                 "mupen64plus-rdp-plugin": "gliden64",
                 "mupen64plus-GLideN64IniBehaviour": "late",
                 "mupen64plus-Framerate": "Fullspeed",
-                "mupen64plus-FrameDuping": "False",
+                "mupen64plus-FrameDuping": "True",
                 "mupen64plus-CountPerOp": "0",
                 "mupen64plus-CountPerOpDenomPot": "0",
                 "mupen64plus-virefresh": "1500",
